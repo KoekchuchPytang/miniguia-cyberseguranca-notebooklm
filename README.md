@@ -25,8 +25,8 @@ Foram selecionadas e carregadas no NotebookLM **5 fontes abertas**, escolhidas p
 | Cartilha de Segurança — Golpes na Internet (CERT.br) | PDF | Usuário / Comportamental | https://cartilha.cert.br/fasciculos/golpes/fasciculo-golpes.pdf |
 | Cartilha de Segurança — Códigos Maliciosos (CERT.br) | PDF | Usuário / Comportamental | https://cartilha.cert.br/fasciculos/codigos-maliciosos/fasciculo-codigos-maliciosos.pdf |
 | Cartilha de Segurança — Privacidade (CERT.br) | PDF | Usuário / Dados | https://cartilha.cert.br/fasciculos/privacidade/fasciculo-privacidade.pdf |
-| OWASP Top 10 (2021) | PDF | Técnico / Desenvolvimento | https://owasp.org/Top10/ |
-| NIST Cybersecurity Framework (CSF) 2.0 | PDF | Estratégico / Governança | https://www.nist.gov/cyberframework |
+| OWASP Top 10 (2021) | PDF | Técnico / Desenvolvimento | https://www.hhs.gov/sites/default/files/owasp-top-10.pdf |
+| NIST Cybersecurity Framework (CSF) 2.0 | PDF | Estratégico / Governança | https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf |
 
 > As fontes foram escolhidas propositalmente para representar públicos diferentes: cidadão comum (CERT.br), desenvolvedor/técnico (OWASP) e gestor/executivo (NIST) — permitindo uma visão de 360° sobre o tema.
 
